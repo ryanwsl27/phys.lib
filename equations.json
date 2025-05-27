@@ -1,0 +1,15 @@
+
+[
+  {
+    "name": "First Law of Thermodynamics",
+    "formula": "ΔU = Q - W",
+    "description": "The change in internal energy of a system equals the heat added minus the work done.",
+    "topic": "Thermodynamics"
+  },
+  {
+    "name": "Kinetic Energy",
+    "formula": "KE = 0.5 * m * v^2",
+    "description": "The energy of a mass in motion.",
+    "topic": "Mechanics"
+  }
+]
